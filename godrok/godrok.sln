@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "godrok", "godrok\godrok.csproj", "{8F550C77-1B06-4668-B95A-682B5AA98086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F550C77-1B06-4668-B95A-682B5AA98086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F550C77-1B06-4668-B95A-682B5AA98086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F550C77-1B06-4668-B95A-682B5AA98086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F550C77-1B06-4668-B95A-682B5AA98086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341B272A-90E3-4C07-BDC8-70B8D7C8A255}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.exe
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.deps.json
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.runtimeconfig.json
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.runtimeconfig.dev.json
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.dll
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\bin\Debug\netcoreapp3.1\metjelentes.pdb
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.csproj.AssemblyReference.cache
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.AssemblyInfoInputs.cache
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.AssemblyInfo.cs
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.csproj.CoreCompileInputs.cache
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.dll
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.pdb
+C:\Users\ernoh\source\repos\metjelentes\metjelentes\obj\Debug\netcoreapp3.1\metjelentes.genruntimeconfig.cache

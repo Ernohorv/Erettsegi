@@ -1,0 +1,14 @@
+C:\Users\ernoh\source\repos\godrok\godrok\bin\Debug\netcoreapp3.1\godrok.exe
+C:\Users\ernoh\source\repos\godrok\godrok\bin\Debug\netcoreapp3.1\godrok.deps.json
+C:\Users\ernoh\source\repos\godrok\godrok\bin\Debug\netcoreapp3.1\godrok.runtimeconfig.json
+C:\Users\ernoh\source\repos\godrok\godrok\bin\Debug\netcoreapp3.1\godrok.runtimeconfig.dev.json
+C:\Users\ernoh\source\repos\godrok\godrok\bin\Debug\netcoreapp3.1\godrok.dll
+C:\Users\ernoh\source\repos\godrok\godrok\bin\Debug\netcoreapp3.1\godrok.pdb
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.csproj.AssemblyReference.cache
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.AssemblyInfoInputs.cache
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.AssemblyInfo.cs
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.csproj.CoreCompileInputs.cache
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.dll
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.pdb
+C:\Users\ernoh\source\repos\godrok\godrok\obj\Debug\netcoreapp3.1\godrok.genruntimeconfig.cache

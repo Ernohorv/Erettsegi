@@ -1,0 +1,14 @@
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\bin\Debug\netcoreapp3.1\cegesauto.exe
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\bin\Debug\netcoreapp3.1\cegesauto.deps.json
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\bin\Debug\netcoreapp3.1\cegesauto.runtimeconfig.json
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\bin\Debug\netcoreapp3.1\cegesauto.runtimeconfig.dev.json
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\bin\Debug\netcoreapp3.1\cegesauto.dll
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\bin\Debug\netcoreapp3.1\cegesauto.pdb
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.csproj.AssemblyReference.cache
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.AssemblyInfoInputs.cache
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.AssemblyInfo.cs
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.csproj.CoreCompileInputs.cache
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.dll
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.pdb
+C:\Users\ernoh\source\repos\cegesauto\cegesauto\obj\Debug\netcoreapp3.1\cegesauto.genruntimeconfig.cache
