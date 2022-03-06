@@ -1,0 +1,15 @@
+C:\Users\c5271526\source\repos\futar\futar\bin\Debug\net6.0\futar.exe
+C:\Users\c5271526\source\repos\futar\futar\bin\Debug\net6.0\futar.deps.json
+C:\Users\c5271526\source\repos\futar\futar\bin\Debug\net6.0\futar.runtimeconfig.json
+C:\Users\c5271526\source\repos\futar\futar\bin\Debug\net6.0\futar.dll
+C:\Users\c5271526\source\repos\futar\futar\bin\Debug\net6.0\ref\futar.dll
+C:\Users\c5271526\source\repos\futar\futar\bin\Debug\net6.0\futar.pdb
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.AssemblyInfoInputs.cache
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.AssemblyInfo.cs
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.csproj.CoreCompileInputs.cache
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.dll
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\ref\futar.dll
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.pdb
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.genruntimeconfig.cache
+C:\Users\c5271526\source\repos\futar\futar\obj\Debug\net6.0\futar.csproj.AssemblyReference.cache
