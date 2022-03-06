@@ -8,20 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\c5271526\\.nuget\\packages\\": {}
+    "C:\\Users\\ernoh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c5271526\\source\\repos\\futar\\futar\\futar.csproj",
+      "projectUniqueName": "C:\\Users\\ernoh\\Documents\\Erettsegi\\futar\\futar\\futar.csproj",
       "projectName": "futar",
-      "projectPath": "C:\\Users\\c5271526\\source\\repos\\futar\\futar\\futar.csproj",
-      "packagesPath": "C:\\Users\\c5271526\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c5271526\\source\\repos\\futar\\futar\\obj\\",
+      "projectPath": "C:\\Users\\ernoh\\Documents\\Erettsegi\\futar\\futar\\futar.csproj",
+      "packagesPath": "C:\\Users\\ernoh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ernoh\\Documents\\Erettsegi\\futar\\futar\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\c5271526\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ernoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -55,12 +60,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
